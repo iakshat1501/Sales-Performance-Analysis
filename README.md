@@ -81,10 +81,8 @@ SalesDashboardProject/
 
 ## 🖼️ Dashboard Previews
 
-> *(You can add images/GIFs below or in the repo to visually showcase the dashboard)*  
-![KPI Dashboard]
-![Subcategory Comparison]
-![Weekly Sales Trends]
+![Sales Dashboard Tableau](https://github.com/user-attachments/assets/0eff91d6-5ca7-4acb-96d6-b2bda05c6127)
+
 
 ---
 
