@@ -56,8 +56,8 @@ Users can filter all visualizations by:
 
 ## 📁 Files Included
 SalesDashboardProject/
-├── Section 15 - Tableau Sales Dashboards.twbx # Tableau packaged workbook
-├── README.md # Project documentation (this file)
+├── Tableau Sales Dashboards.twbx # Tableau packaged workbook
+├── Dataset Folder
 
 
 ---
