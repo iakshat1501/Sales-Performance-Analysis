@@ -29,33 +29,33 @@ Prior to beginning the analysis, quality control checks and dataset familiarizat
 ## ✅ Executive Summary
 
 ### 📌 Overview and Findings
--	At the beginning of 2021, sales continued to decline throughout the year, with a slight increase in August and a peak in November, reaching $79K in total sales. This was 3.4% lower compared to November sales from the previous year.
--	The year 2022 began with an increase in sales, showing a 29.5% growth in total sales compared to the previous year. This aligns with a surge in economy-wide spending driven by post-pandemic shifts in consumer behavior.
+-	At the beginning of **2021, sales continued to decline** throughout the year, with a **slight increase in August** and a **peak in November**, reaching **$79K** in total sales. This was **3.4% lower** compared to **November sales from the previous year.**
+-	The year **2022 began with an increase in sales,** showing a **29.5% growth in total sales** compared to the previous year. This aligns with a surge in **economy-wide spending driven by post-pandemic shifts in consumer behavior.**
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1TlZRh2P5LNedTjyIJd2wa2hPcoMytWj_/view?usp=sharing).  
 ![Sales Dashboard Tableau](https://github.com/user-attachments/assets/0eff91d6-5ca7-4acb-96d6-b2bda05c6127)
 
 
 ### 📈 Sales Trends
--	Despite a downward trend, 2022 consistently outperformed the pre-COVID 2019 baseline across all KPIs, with an average increase of 25%.
--	Company sales peaked again in November 2023, reaching $118K in total sales—almost double the amount compared to the previous year.
+-	Despite a **downward trend, 2022 consistently outperformed the pre-COVID 2019 baseline** across all **KPIs**, with an **average increase of 25.83%.**
+-	Company sales **peaked again in November 2023**, reaching **$118K** in total sales, **almost double the amount compared to the previous year**.
 
-![image](https://github.com/user-attachments/assets/952fa486-5a3d-4c23-b7bb-44c29dc30973)
+![image](https://github.com/user-attachments/assets/8099b481-c1a9-4f06-a0f4-a300fd2e7858)
 
 ### 🧺 Product Performance
--	The majority of company orders came from categories such as Technology, Office Supplies, and Furniture, which together contributed around 75% of total sales.
--	Products like Chairs, Phones, Storage, Tables, Binders, and Machines underperformed, with slight declines in 2021. Some, such as Tables and Bookcases, even incurred losses.
--	Bookcases, Art, Paper, and Machines were among the least popular products, each recording fewer than 2 orders.
+-	The majority of company orders came from categories such as **Technology, Office Supplies, and Furniture**, which together contributed around **78%** of total sales.
+-	Products like **Chairs, Phones, Storage, Tables, Binders, and Machines** underperformed, with slight declines in 2021. Some, such as **Tables** and **Bookcases**, even **incurred losses**.
+-	**Bookcases, Art, Paper, and Machines** were among the **least popular products**, each recording **fewer than 2 orders**.
+
 ![image](https://github.com/user-attachments/assets/a789d013-67a8-4f93-9083-59054ef5fcde)
 
-
 ### Location Performance
--	New York City contributed the most to overall sales, with 915 orders.
--	The state of California recorded the highest sales volume, with 2,040 orders over the last three years, while Wyoming recorded the lowest, with just 1 order.
--	The South Region placed the fewest orders over the past years, totaling only 1,631.
+-	**New York City** contributed the most to overall sales, with **915 orders**.
+-	The state of **California Region** recorded the **highest sales volume**, with **2,040 orders** over the last three years, while **Wyoming City** recorded the **lowest**, with just **1 order**.
+-	The **South Region** placed the **fewest orders** over the past years, totaling only **1,631**.
 
 ---
-## 🌟 Key Insights Delivered
+## 🌟 Key Recommendations
 Based on the insights uncovered, the following recommendations are provided:
 
 -	**November consistently drives peak sales**, with $118K in Nov 2023—**up nearly 100% YoY** from Nov 2022. **Launch early-access VIP programs or bundles.** With Nov contributing ~20% of annual revenue and 30% YoY growth, **targeted marketing could drive $25K–$35K additional revenue annually.**
