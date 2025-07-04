@@ -1,5 +1,5 @@
 
-## Project Background
+## 📊 Project Background
 
 This dataset belongs to an e-commerce company operating across various regions of the United States, with extensive sales data spanning from 2020 to 2023. The analysis presented here thoroughly examines and synthesizes this data to uncover critical insights aimed at enhancing the company's commercial performance.
 
