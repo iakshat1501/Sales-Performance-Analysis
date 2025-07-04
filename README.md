@@ -1,4 +1,5 @@
-##Project Background
+
+## Project Background
 
 This dataset belongs to an e-commerce company operating across various regions of the United States, with extensive sales data spanning from 2020 to 2023. The analysis presented here thoroughly examines and synthesizes this data to uncover critical insights aimed at enhancing the company's commercial performance.
 
@@ -21,7 +22,8 @@ The e-commerce sales database as seen below consists of four tables orders, cust
 
 ![ER Diagram SalesData](https://github.com/user-attachments/assets/4e1c02de-20e7-43d8-aa06-3d9db7a3de83)
 
-Prior to beginning the analysis, quality control checks and dataset familiarization were conducted. The Python code used for data inspection and quality checks can be found [here].
+Prior to beginning the analysis, quality control checks and dataset familiarization were conducted. The Python code used for data inspection and quality checks can be found here.
+
 ---
 
 ## ✅ Executive Summary
